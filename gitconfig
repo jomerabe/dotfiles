@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = johana.ramirez.bernal@outlook.com
+	name = Johana Ramirez
